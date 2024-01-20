@@ -1,0 +1,18 @@
+body {
+  transition: background-color 1s ease;
+  background-color: #f4f4f4; /* Color de fondo inicial */
+  color: #333; /* Color del texto inicial */
+}
+
+.dark-mode {
+  background-color: #333; /* Color de fondo oscuro */
+  color: #fff; /* Color del texto en modo oscuro */
+}
+
+button {
+  margin: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+
